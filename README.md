@@ -1,21 +1,3 @@
-# Zomato Restaurant Analysis
-
-Data analysis and visualization project using the Zomato restaurant dataset.
-
-## Technologies
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-
-## Features
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Restaurant Rating Analysis
-
-## Files
-- code-alpha.ipynb
-
-## Author
-Shrouk Nasr Mahmoud
+Task 2 - Exploratory Data Analysis
+Task 3 - Data Visualization
+Task 4 - Sentiment Analysis
